@@ -3,20 +3,18 @@
   "id": "autoattack",
   "version": "${mod_version}",
 
-  "name": "Auto Attack",
-  "description": "Auto Attack makes it so that holding the attack button autoswings the sword, similar to the combat snapshots.",
+  "name": "ELC loader",
+  "description": "ELC loader",
   "authors": [
-    "Vin35"
+    "ELC loader"
   ],
   "contributors": [
-    "Tfarecnim",
-    "BlazingTwist",
-    "Rongmario"
+    "ELC loader"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/autoattack",
-    "sources": "https://github.com/vin350/AutoAttack",
-    "issues": "https://github.com/vin350/AutoAttack/issues"
+    "homepage": "https://modrinth.com/",
+    "sources": "https://modrinth.com/",
+    "issues": "https://modrinth.com/"
   },
 
   "license": "MIT",
