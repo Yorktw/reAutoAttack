@@ -14,13 +14,13 @@ public class AutoAttackConfig extends AutoAttack {
     @Entry
     public static boolean preventsHittingBlocksSwords = true;
     @Entry
-    public  static  boolean cleanCut = true;
+    public  static  boolean cleanCut = false;
     @Entry
-    public  static  boolean autoBow = true;
+    public  static  boolean autoBow = false;
     @Entry
-    public  static  boolean autoCrossBow = true;
+    public  static  boolean autoCrossBow = false;
     @Entry
-    public  static  boolean autoTrident = true;
+    public  static  boolean autoTrident = false;
     @Entry
     public  static  boolean afkAttack = false;
 }
